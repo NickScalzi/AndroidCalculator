@@ -1,4 +1,4 @@
-//Nick Scalzi (SN: 4558771)
+//Nick Scalzi
 //Saturday, October 05, 2013
 
 package com.example.calculator;
